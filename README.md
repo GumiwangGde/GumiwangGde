@@ -26,15 +26,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GumiwangGde&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumiwangGde&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
