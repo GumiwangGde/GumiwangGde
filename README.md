@@ -42,7 +42,6 @@ I enjoy building **clean, scalable backend systems**, designing APIs, and thinki
 ---
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GumiwangGde&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GumiwangGde&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GumiwangGde&theme=default)
 
