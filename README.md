@@ -41,6 +41,16 @@ I enjoy building **clean, scalable backend systems**, designing APIs, and thinki
 
 ---
 
+## 📊 GitHub Stats
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GumiwangGde&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumiwangGde&layout=compact&hide_border=true"/>
+</p>
+
+> *Language distribution is calculated automatically by GitHub based on my public repositories.*
+
+---
+
 ## 🧠 What I Focus On
 - Clean Architecture & Separation of Concerns  
 - REST API Design & Validation  
