@@ -42,10 +42,10 @@ I enjoy building **clean, scalable backend systems**, designing APIs, and thinki
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GumiwangGde&show_icons=true&theme=default&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumiwangGde&layout=compact&hide_border=true"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GumiwangGde&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GumiwangGde&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GumiwangGde&theme=default)
+
 
 > *Language distribution is calculated automatically by GitHub based on my public repositories.*
 
